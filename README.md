@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!! I am student trying to collaborate with big mnc's to learn about there work flow and teachhinces <br>I am currently studying Data Science <br>I am really into python and AI<br>FUN FACT i am pro badminton player<br>
+Hey!! I am student trying to collaborate with big mnc's to learn about there work flow and technique's <br>I am currently studying Data Science <br>I am really into python and AI<br>FUN FACT i am pro badminton player<br>
 
 
 ## 🌐 Socials:
